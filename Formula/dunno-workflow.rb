@@ -1,8 +1,8 @@
 class DunnoWorkflow < Formula
   desc "Declarative Claude Code agent team orchestration for iTerm2"
   homepage "https://github.com/cometdigitalagency/dunno-workflow"
-  url "https://github.com/cometdigitalagency/dunno-workflow/archive/refs/tags/v0.3.4.tar.gz"
-  sha256 "5cf8dea2c1f1cde0fb062b6397afd61c31ea1c31731830a8faa82fe8709ec6f8"
+  url "https://github.com/cometdigitalagency/dunno-workflow/archive/refs/tags/v0.3.5.tar.gz"
+  sha256 "00894b896b7d79ea1d77abf3081f474ec18865dca3f1911a854ab5955d1df558"
   license "MIT"
 
   depends_on "yq"
